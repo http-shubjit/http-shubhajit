@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubhajit Biswal</h1>
+<h2 align="center">Hi 👋, I'm Shubhajit Biswal</h2>
 <h3 align="center">Passionate MCA Graduate Student</h3>
 <img align="right" alt="" width="400px" src="https://images.app.goo.gl/KqW2iufUoMzfjNs98">
 
